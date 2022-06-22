@@ -17,3 +17,4 @@ const result = (a, b) => {
 };
 
 alert("The result is: " + result(value1, value2));
+g;
